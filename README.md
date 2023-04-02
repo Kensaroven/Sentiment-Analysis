@@ -2,6 +2,8 @@
 
 ## Academic Project
 
+The data file is from the reviews visit of the ISKCON temple in Benglauru and the people's review of the premise is taken into consideration for sentiment analysis
+
 #### Some of the key questions to answer are:
 
 1. What are the issues with given text data and discuss what type of pre-processing would be required?
